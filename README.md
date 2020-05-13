@@ -1,4 +1,3 @@
-# Lab1-Safonov-Chukhvantsev
 Файл запуска - main_threads 
 
 В нем создаются 2 параллельных процесса.
